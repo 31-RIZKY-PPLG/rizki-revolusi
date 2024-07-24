@@ -4,5 +4,4 @@ revolusi PPLG 2024
   a.clarafel
   b.java sc
   c.html
-3.seportif
 
